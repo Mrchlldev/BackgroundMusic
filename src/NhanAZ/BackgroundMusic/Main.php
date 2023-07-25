@@ -26,7 +26,7 @@ class Main extends PluginBase implements Listener {
 		$player = $event->getPlayer();
 		$playerPos = $player->getPosition();
 		$packet = PlaySoundPacket::create(
-			soundName: "C418Sweden",
+			soundName: "OsfMusic",
 			x: $playerPos->getX(),
 			y: $playerPos->getY(),
 			z: $playerPos->getZ(),
