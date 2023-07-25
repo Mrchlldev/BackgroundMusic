@@ -1,6 +1,6 @@
 ---
-name: BackgroundMusic
-author: NhanAZ
+name: OsfMusic
+author: NhanAZ, Mrchlldev
 version: 0.0.3
 api: 5.0.0
 main: NhanAZ\BackgroundMusic\Main
